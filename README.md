@@ -21,17 +21,18 @@
  </table>
  </div>
  ---
+ 
  ## How to Install
  1. Download the latest version of Sitely for macOS.
- 2.
-
-
- Open the installer image and move Sitely.app to the Applications folder.
+ 2. Open the installer image and move Sitely.app to the Applications folder.
  3. Launch the app and allow it through macOS Gatekeeper if required.
  <br>
  <img src="https://sitely.app/de/images/6/screenshot-2025-07-30-at-5.28.02-in-the-afternoon-420.jpg" width="900" alt="Sitely editor view showing layout and typography controls">
  ---
+
+
  ## Overview
+ 
  ### Enhanced Workflow for macOS
 Sitely is implemented as an adaptable visual website design and publishing environment with attention to <a href="#">macOS-native workflows</a> and predictable performance. The workspace keeps the most-used controls close at hand, reducing friction when the user needs to sample values, compare results, adjust settings, and repeat the same actions throughout the day. Rather than forcing a single “mode,” the interface supports quick, lightweight interactions and longer sessions where the user wants to build consistency across many files, screens, or projects. Core operations follow a <a href="#">local processing model</a>, so essential tasks remain available even when the system is offline or when the network is restricted.
 
@@ -47,8 +48,11 @@ Sitely is tuned to run effectively on both <a href="#">Intel</a> and <a href="#"
 ### Data Management & Long-Term Stability
 The application applies structured <a href="#">data organization practices</a> to preferences, saved states, and historical records. It uses cautious <a href="#">metadata handling</a> and safe update sequences to reduce the chance of inconsistent states when upgrading or resuming older sessions. Over time, this emphasis on long-term stability helps Sitely fit into daily macOS workflows without surprising behavior when revisiting archived work, recreating a known setup, or transferring settings to a new Mac.
  <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeLzE8u8Nae7z0EFiAtTC_03gKPEAYmXyBvejjh8njt3pMiNtrX-d_k4t-Dl06s9ehlGMCnZG5y-KrXxXVtFNaVEWOlOiV8q9MJBbXwdleQJaLsI71g-_iXb4Nrow7sYtcxXinIAA?key=9D9QH8FTEAf8rcZsFQ9E5aFL" width="900" alt="Sitely templates gallery and ready-made blocks preview">
+ 
  ---
+ 
  ## Features
+ 
  - Refined interface aligned with <a href="#">macOS design language</a>, focusing on clarity and quick access to layout design, typography, responsive pages and publishing.
 - Relies on a <a href="#">local processing model</a>, avoiding forced cloud usage and enabling work in secure environments.
 - Supports adjustable <a href="#">configuration profiles</a>, allowing different presets for personal, team or studio setups.
